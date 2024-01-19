@@ -227,9 +227,6 @@ ol {
   gap: 15px;
 }
 
-.search-form__label {
-  appearance: none;
-}
 
 .search-form__pseudo-checkbox {
   display: flex;
